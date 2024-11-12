@@ -1,0 +1,20 @@
+# standard packages
+pandas
+numpy
+ipykernel
+scikit-learn
+
+# small utils
+tqdm
+pickleshare  # to change workspace in notebooks
+pyarrow  # for parquet files
+fastparquet  # for parquet files
+
+# quantum packages
+qiskit
+
+# visualization
+matplotlib
+seaborn
+pylatexenc  # for latex in matplotlib
+SciencePlots # https://github.com/garrettj403/SciencePlots
